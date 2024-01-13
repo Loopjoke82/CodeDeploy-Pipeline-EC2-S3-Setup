@@ -1,0 +1,22 @@
+# AWS CodeDeploy
+.deploy/
+
+# AWS credentials
+.aws/
+
+# Application artifacts
+/app/artifacts/
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.iml
+
+# Compiled files
+/target/
+/bin/
+/build/
+
+# Logs and temporary files
+/logs/
+/temp/
